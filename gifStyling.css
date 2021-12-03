@@ -1,0 +1,22 @@
+body {
+  color:white;
+  background-color: black;
+  text-align: center;
+}
+
+
+.gifHome {
+  display: grid;
+  grid-template-columns:auto auto auto;
+  margin-top: 10px;
+  padding: 10px;
+  justify-items: center
+}
+
+.gifEl {
+  margin: 20px;
+  width: 550px;
+  height: 309.375px;
+  text-align: center;
+}
+
